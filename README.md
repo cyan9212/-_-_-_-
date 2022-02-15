@@ -1,1 +1,1 @@
-[WikiDocs] 딥 러닝을 이용한 자연어 처리 입문 실습
+[WikiDocs] PyTorch로 시작하는 딥 러닝 입문
